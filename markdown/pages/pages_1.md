@@ -8,7 +8,7 @@ Title: About
 
 課程投影片: <a href="https://jason60714.github.io/cd2022/reveal/index.html">https://jason60714.github.io/cd2022/reveal/index.html</a>
 
-課程網誌: <a href="https://jason60714.github.io/cd2022/blog/index.html">https://jason60714.github.io/cd2022/blog/index.html</a>
+課程網誌: <a href="https://jason60714.github.io/cd2022/blog/">https://jason60714.github.io/cd2022/blog/</a>
 
 
 
