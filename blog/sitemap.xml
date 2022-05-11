@@ -4,92 +4,106 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/</loc>
-<lastmod>2022-05-11T11:48:50-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2022-05-11T20:06:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/archives.html</loc>
-<lastmod>2022-05-11T11:48:50-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2022-05-11T20:06:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/tags.html</loc>
-<lastmod>2022-05-11T11:48:50-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2022-05-11T20:06:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/categories.html</loc>
-<lastmod>2022-05-11T11:48:50-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2022-05-11T20:06:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2022-03-30T11:13:42+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/w10_summary.html</loc>
+<loc>./w10_summary.html</loc>
 <lastmod>2022-05-11T11:36:08+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/w11_summary.html</loc>
+<loc>./w11_summary.html</loc>
 <lastmod>2022-05-11T11:48:36+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/w7_summary.html</loc>
+<loc>./w12_summary.html</loc>
+<lastmod>2022-05-11T20:06:04+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w7_summary.html</loc>
 <lastmod>2022-05-11T11:48:36+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/category/misc.html</loc>
-<lastmod>2022-05-11T11:48:36+08:06</lastmod>
+<loc>./category/misc.html</loc>
+<lastmod>2022-05-11T20:06:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/tag/w10_summary.html</loc>
+<loc>./tag/w10_summary.html</loc>
 <lastmod>2022-05-11T11:36:08+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/tag/w11_summary.html</loc>
+<loc>./tag/w11_summary.html</loc>
 <lastmod>2022-05-11T11:48:36+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/tag/w7_summary.html</loc>
+<loc>./tag/w12_summary.html</loc>
+<lastmod>2022-05-11T20:06:04+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w7_summary.html</loc>
 <lastmod>2022-05-11T11:48:36+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://jason60714.github.io/cd2022/blog/author/yen.html</loc>
-<lastmod>2022-05-11T11:48:36+08:06</lastmod>
+<loc>./author/yen.html</loc>
+<lastmod>2022-05-11T20:06:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
